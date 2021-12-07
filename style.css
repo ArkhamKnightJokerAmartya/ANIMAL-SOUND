@@ -1,0 +1,38 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    background-color:aquamarine;
+}
+
+.header_div{
+    background-color: #00ffea;
+    color:darkblue;
+}
+.header_div p{
+    font-family: 'Open Sans', sans-serif;
+    color: violet;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+   
+}
+
+.name_div button{
+    font-family: 'Rubik', sans-serif ;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:green;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: indianred;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px coral;
+}
